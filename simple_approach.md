@@ -50,6 +50,8 @@ To build an **automated, scalable, and reliable system** that:
 The proposed solution is a **serverless, event-driven data processing pipeline** built on AWS.
 
 ### High-Level Flow:
+<img width="570" height="554" alt="image" src="https://github.com/user-attachments/assets/b9164a58-972c-4679-8742-3214a8df4cf0" />
+
 
 1. User uploads file
 2. File is automatically processed
